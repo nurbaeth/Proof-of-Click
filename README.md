@@ -11,7 +11,7 @@ Crypto Clicker is a simple idle game where you mine virtual coins by clicking. U
 ## How to Play
 1. Run the game with Python:
    ```bash
-   python crypto_clicker.py
+   python crypto_clicker.py 
    ```  
 2. Use the following commands:  
    - `click` → Mine coins manually.
