@@ -14,7 +14,7 @@ Crypto Clicker is a simple idle game where you mine virtual coins by clicking. U
    python crypto_clicker.py 
    ```  
 2. Use the following commands:  
-   - `click` → Mine coins manually.
+   - `click` → Mine coins manually. 
    - `upgrade` → Increase mining power per click.
    - `buy` → Purchase auto-miners for passive income.
    - `exit` → Quit the game.
