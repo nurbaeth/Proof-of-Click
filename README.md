@@ -20,7 +20,7 @@ Crypto Clicker is a simple idle game where you mine virtual coins by clicking. U
    - `exit` → Quit the game.
 
 ## Requirements 
-- Python 3.x
+- Python 3.x 
  
 ## Future Enhancements
 - Save game progress
